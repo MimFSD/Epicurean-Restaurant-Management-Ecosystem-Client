@@ -29,9 +29,7 @@ console.log(id);
                             <p className="block mt-2  font-semibold text-secondary transition-colors duration-300 transform dark:text-white hover:text-primary hover:underline" > Price: {price} only </p>
                             
                             <p className="block mt-2  font-semibold text-secondary transition-colors duration-300 transform dark:text-white hover:text-primary hover:underline" > Origin: {food_origin}</p>
-                            
-                          
-                            
+                      
                         </div>
                            
                         <div className="flex flex-col md:flex-row justify-between text-start">
@@ -39,13 +37,9 @@ console.log(id);
                             <p className="block mt-2  font-semibold text-secondary transition-colors duration-300 transform dark:text-white hover:text-primary hover:underline" >Total Purchases: {purchase_amount}  </p>
                             
                             <p className="block mt-2  font-semibold text-secondary transition-colors duration-300 transform dark:text-white hover:text-primary hover:underline" > Quantity: {quantity} </p>
-                            
-                          
-                            
-                        </div>
-                           
                         
-                            <p className="mt-2 text-sm text-gray-600 dark:text-gray-400 text-start">{description} </p>
+                        </div>
+                        <p className="mt-2 text-sm text-gray-600 dark:text-gray-400 text-start">{description} </p>
                         </div>
 
                         <div className="mt-4">
