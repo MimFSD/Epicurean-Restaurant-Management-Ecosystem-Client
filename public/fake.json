@@ -1,0 +1,156 @@
+[
+    {
+        "food_name": "Pizza",
+        "food_image": "https://i.ibb.co/0VZYbFV/image.png",
+        "food_category": "Italian",
+        "price": "$10.99",
+        "purchase_amount": 2,
+        "made_by": "Chef Giovanni",
+        "food_origin": "Italy",
+        "quantity":15,
+        "description": "Pizza is a classic Italian dish consisting of a yeasted flatbread typically topped with tomato sauce, cheese, and various toppings such as pepperoni, mushrooms, or olives. It is baked in an oven until the crust is crisp and the cheese is melted and bubbly."
+    },
+    {
+        "food_name": "Sushi",
+        "food_image": "https://i.ibb.co/72WWhDP/image.png",
+        "food_category": "Japanese",
+        "price": "$12.50",
+        "purchase_amount": 4,
+        "made_by": "Chef Haruto",
+        "quantity": 17,
+        "food_origin": "Japan",
+        "description": "Sushi is a traditional Japanese dish made with vinegared rice, usually accompanied by seafood, vegetables, and occasionally tropical fruits. It is often served with soy sauce, wasabi, and pickled ginger."
+    },
+    {
+        "food_name": "Tacos",
+        "food_image": "https://i.ibb.co/YXXv6s3/image.png",
+        "food_category": "Mexican",
+        "price": "$8.99",
+        "purchase_amount": 3,
+        "quantity": 15,
+        "made_by": "Chef Maria",
+        "food_origin": "Mexico",
+        "description": "Tacos are a staple of Mexican cuisine, made with a corn or wheat tortilla folded or rolled around a filling such as beef, pork, chicken, or vegetables. They are often garnished with salsa, guacamole, or sour cream."
+    },
+    {
+        "food_name": "Pad Thai",
+        "food_image": "https://i.ibb.co/7nM1ZyH/image.png",
+        "food_category": "Thai",
+        "price": "$9.99",
+        "purchase_amount": 5,
+        "made_by": "Chef Achara",
+        "quantity": 11,
+        "food_origin": "Thailand",
+        "description": "Pad Thai is a flavorful Thai street food dish made from stir-fried rice noodles with eggs, fish sauce, tamarind juice, red chili pepper, plus a combination of bean sprouts, shrimp, chicken, or tofu."
+    },
+    {
+        "food_name": "Ratatouille",
+        "food_image": "https://i.ibb.co/b5KJ7Rr/image.png",
+        "food_category": "French",
+        "price": "$13.99",
+        "purchase_amount": 1,
+        "made_by": "Chef Émile",
+        "quantity": 12,
+        "food_origin": "France",
+        "description": "Ratatouille is a French Provençal stewed vegetable dish, originating in Nice, and sometimes referred to as ratatouille niçoise. It is made from aubergines, tomatoes, onions, bell peppers, zucchini, garlic, and herbs simmered in olive oil."
+    },
+    {
+        "food_name": "Falafel",
+        "food_image": "https://i.ibb.co/kq8VdP3/image.png",
+        "food_category": "Middle Eastern",
+        "price": "$6.99",
+        "purchase_amount": 6,
+        "quantity": 9,
+        "made_by": "Chef Amir",
+        "food_origin": "Middle East",
+        "description": "Falafel is a deep-fried ball or patty made from ground chickpeas, fava beans, or both. It is a traditional Middle Eastern food, commonly served in a pita, which acts as a pocket, or wrapped in a flatbread known as lafa."
+    }
+]
+[
+    {
+        "food_image": "https://i.ibb.co/72WWhDP/image.png",
+        "food_name": "Sushi",
+        "description": "One of the best Japanese food you will ever try",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/0VZYbFV/image.png",
+        "food_name": "Pizza",
+        "description": "Classic Italian dish loved by all ages",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/QmD1dfp/image.png",
+        "food_name": "Burger",
+        "description": "All-American favorite, perfect for a quick bite",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/YXXv6s3/image.png",
+        "food_name": "Tacos",
+        "description": "Spicy and flavorful Mexican street food",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/7nM1ZyH/image.png",
+        "food_name": "Pad Thai",
+        "description": "Delicious Thai noodle dish with a perfect blend of flavors",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/G9tHYB5/image.png",
+        "food_name": "Steak",
+        "description": "Juicy and succulent, a meat lover's dream",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/9g9RnkP/image.png",
+        "food_name": "Pasta",
+        "description": "Comforting Italian staple, always a crowd-pleaser",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/DV4hNz8/image.png",
+        "food_name": "Sushi Burrito",
+        "description": "Innovative fusion of Japanese sushi and Mexican burrito",
+        "added_by": "Abu Horaira"
+    },
+    {
+        "food_image": "https://i.ibb.co/rcnTZxj/image.png",
+        "food_name": "Salad",
+        "description": "Fresh and healthy option packed with nutritious ingredients",
+        "added_by": "Abu Horaira"
+    }
+]
+[
+    {
+        "food_name": "Sushi Bowl",
+        "food_image": "https://i.ibb.co/RCcMgFw/image.png",
+        "food_category": "Japanese",
+        "price": "$14.99",
+        "purchase_amount": 2,
+        "made_by": "Chef Aiko",
+        "food_origin": "Japan",
+        "description": "A delectable sushi-inspired bowl featuring rice, fresh fish, avocado, cucumber, and a drizzle of savory sauce."
+    },
+    {
+        "food_name": "Gourmet Burger",
+        "food_image": "https://i.ibb.co/jHJ1vGt/image.png",
+        "food_category": "American",
+        "price": "$16.99",
+        "purchase_amount": 3,
+        "made_by": "Chef Aiko",
+        "food_origin": "United States",
+        "description": "A succulent burger made with premium beef, artisanal cheese, caramelized onions, and served with hand-cut fries."
+    },
+    {
+        "food_name": "Mediterranean Platter",
+        "food_image": "https://i.ibb.co/kH3nQfK/image.png",
+        "food_category": "Mediterranean",
+        "price": "$18.50",
+        "purchase_amount": 2,
+        "made_by": "Chef Aiko",
+        "food_origin": "Various",
+        "description": "An exquisite platter featuring hummus, falafel, tabbouleh, grilled vegetables, and warm pita bread, perfect for sharing."
+    }
+]

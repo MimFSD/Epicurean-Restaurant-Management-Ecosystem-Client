@@ -1,0 +1,22 @@
+.custom-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.custom-table th,
+.custom-table td {
+    border: 1px solid #5f431c;
+    padding: 4px;
+    text-align: left;
+}
+
+.custom-table th {
+    background-color: #f2f2f2;
+    color: #5f431c;
+}
+
+@media only screen and (max-width: 600px) {
+    .hide {
+        display: none;
+    }
+}
