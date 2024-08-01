@@ -20,7 +20,6 @@ const AllFoods = () => {
     }
     const containerStyles = {
        
-       
         // background: linear - gradient(to right, rgba(128, 0, 128, 0.7), rgba(255, 0, 0, 0.7)),
         backgroundImage: `url(https://i.ibb.co/BBQCnXh/image.png)`
         // Add more CSS properties as needed
@@ -53,9 +52,12 @@ const AllFoods = () => {
             </div>
             </div>
           
+
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4 mx-auto justify-between text-center">
                 {
+
                     foods.map(food => <AllCard key={food._id} food={food}></AllCard>)
+                    
                 }
             </div>
         </div>
