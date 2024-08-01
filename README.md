@@ -20,22 +20,21 @@
 <li>run this with npm run dev .</li>
   
 </ul>
+
+
 # Technology Stack
 ## Frontend
-React.js: For building dynamic and responsive user interfaces.
-State Management: Using Redux or Context API for managing global state.
-UI Libraries: Material-UI or Ant Design for pre-built components.
+* React.js: For building dynamic and responsive user interfaces.
+* State Management: Using Redux or Context API for managing global state.
+* UI Libraries: Material-UI or Ant Design for pre-built components.
 ## Backend
-Node.js: For server-side runtime environment.
-Express.js: For building RESTful APIs and handling server-side logic.
+* Node.js: For server-side runtime environment.
+* Express.js: For building RESTful APIs and handling server-side logic.
 ## Database
 MongoDB: For a flexible, scalable NoSQL database to store application data.
 ## Deployment
-Frontend: Deploy on platforms like Vercel or Netlify.
-Backend: Deploy on platforms like Heroku or DigitalOcean.
-Database: Use MongoDB Atlas for a managed database service.
-Additional Tools
-Version Control: Git for source code management.
-CI/CD: Continuous Integration/Continuous Deployment pipelines for automated testing and deployment.
-Containerization: Docker for creating containerized applications.
+* Frontend: Deploy on platforms like Vercel or Netlify.
+* Backend: Deploy on platforms like Heroku or DigitalOcean.
+* Database: Use MongoDB Atlas for a managed database service.
+
 
