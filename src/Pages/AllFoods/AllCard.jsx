@@ -3,6 +3,10 @@
 import { Link } from "react-router-dom";
 const AllCard = ({ food }) => {
     //  console.log(food);
+
+
+
+
     const { food_name, food_image, price, food_category,quantity,_id } = food
     return (
         <div className="border border-secondary mx-auto rounded-md min-w-80">
@@ -19,9 +23,9 @@ const AllCard = ({ food }) => {
                             </div>
                            
                         </div>
-
                     </div>
                     <Link to={`/details/${_id}`}>
+                    
                         <button type="button" className="flex items-center text-secondary bg-primary justify-center w-full py-3 font-semibold tracking-wide rounded-md dark:bg-violet-600 dark:text-gray-50 border border-secondary">View Details</button>
                     </Link>
                     
