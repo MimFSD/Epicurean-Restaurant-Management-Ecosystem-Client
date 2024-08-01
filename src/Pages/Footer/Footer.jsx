@@ -18,12 +18,9 @@ const LINKS = [
 
 const currentYear = new Date().getFullYear();
 
-
 const Footer = () => {
     return (
         <div>
-
-
             <footer className="relative w-full mt-6 bg-gray-500 p:4 md:p-10 lg:p-16">
                 <div className="mx-auto w-full max-w-7xl px-8">
                     <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-2">
