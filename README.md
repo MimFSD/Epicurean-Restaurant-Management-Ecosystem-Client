@@ -1,6 +1,6 @@
 
-
-<h1>Nurturing Energetics</h1>
+<!-- Nurturing Energetics -->
+<h1>Epicurean Restaurant Management Ecosystem</h1>
 <a href="https://a11-nurturing-energetics.web.app/"> click here </a>
 <h3>Category: Restaurant Management Website</h3>
 <h5> Some points about my website</h5>
