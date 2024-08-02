@@ -8,9 +8,9 @@
 <li>Secure access to the system for different users, preventing unauthorized access.</li>
 <li>Provides a centralized view of restaurant operations and performance metrics.</li>
 <li>Streamlines the reservation process, reducing double bookings and improving customer experience.</li>
-<li> Simplifies the process of updating and organizing menu items.</li>
+<li> Simplifies the process of updating and organizing menu items</li>
 <li>  Enhances order accuracy and tracking, improving communication between staff </li>
-<li>Prevents stockouts and overstocking, ensuring inventory is always at optimal levels.<li>
+<li>Prevents stockouts and overstocking, ensuring inventory is always at optimal levels <li>
 </ul>
 
 <h5>If you want to run on your local machine , then</h5>
