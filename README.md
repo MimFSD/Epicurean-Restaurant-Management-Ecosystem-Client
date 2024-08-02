@@ -12,12 +12,13 @@
 <li>  Enhances order accuracy and tracking, improving communication between staff </li>
 <li>Prevents stockouts and overstocking, ensuring inventory is always at optimal levels.<li>
 </ul>
+
 <h5>If you want to run on your local machine , then</h5>
 <ul>
-<li>clone this repo.</li>
-<li>install the dependency by npm i .</li>
-<li>set firebase config .</li>
-<li>run this with npm run dev .</li>
+<li>clone this repo</li>
+<li>install the dependency by npm i </li>
+<li>set firebase config </li>
+<li>run this with npm run dev </li>
   
 </ul>
 
