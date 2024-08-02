@@ -21,8 +21,8 @@
   
 </ul>
 
-
 # Technology Stack
+
 ## Frontend
 * React.js: For building dynamic and responsive user interfaces.
 * State Management: Using Redux or Context API for managing global state.
