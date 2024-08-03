@@ -10,8 +10,7 @@
 <li>Streamlines the reservation process, reducing double bookings and improving customer experience.</li>
 <li> Simplifies the process of updating and organizing menu items</li>
 <li>  Enhances order accuracy and tracking, improving communication between staff </li>
-<li>Prevents stockouts and overstocking, ensuring inventory is always at optimal levels <li>
-</ul>
+<li>Prevents stockouts and overstocking, ensuring inventory is always at optimal levels <li></ul>
 
 <h5>Run on Local Machine</h5>
 <ul>
