@@ -13,7 +13,7 @@
 <li>Prevents stockouts and overstocking, ensuring inventory is always at optimal levels <li>
 </ul>
 
-<h5>If you want to run on your local machine , then</h5>
+<h5>Run on Local Machine</h5>
 <ul>
 <li>clone this repo</li>
 <li>install the dependency by npm i </li>
